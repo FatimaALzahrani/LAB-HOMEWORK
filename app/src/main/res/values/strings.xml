@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="hello">Hello in my app</string>
+    <string name="click_here">click here</string>
+    <string name="Hi">أهلا وسهلا في تطبيق التسوق</string>
+    <string name="want">هل تريد شراء </string>
+    <string name="phone">هواتف ذكية</string>
+    <string name="computer">كمبيوتر محمول</string>
+    <string name="buy">الدفع بواسطة</string>
+    <string name="pai_pal">Pai pal</string>
+    <string name="card">بطاقة ائتمانية</string>
+    <string name="delivery">الدفع عند الاستلام</string>
+    <string name="mblg">المبلغ المدفوع </string>
+    <string name="done">الدفع</string>
+    <string name="Want">هل تريد شراء</string>
+    <string name="m">المبلغ المدفوع</string>
+    <string name="send">send</string>
+    <string name="second_activity">second activity</string>
+    <string name="enter_your_massage">Enter your massage</string>
+    <string name="detail">تفاصيل وفاتورة المشتريات</string>
+    <string name="buyy">اشتريتم</string>
+    <string name="mblgg">دفعتم مبلغ</string>
+    <string name="by">بواسطة</string>
+    <string name="thanks">شكرا على تسوقكم إلى اللقاء</string>
+
+</resources>
